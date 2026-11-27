@@ -40,6 +40,7 @@ We built an end-to-end machine-learning system for **myDel**, a fictional phone 
   - `frontend/`: React app with Manager, Support agent and Data scientist views
   - `notebooks/`: EDA and modelling notebooks (Google Colab versions included)
 - Dataset: [`Dataset/`](Dataset/) (raw and cleaned IBM Telco CSV)
+- **Final report:** [`Group11_Customer_Churn_Research_Report_FINAL.pdf`](Group11_Customer_Churn_Research_Report_FINAL.pdf)
 - Documentation: [`Documentation/`](Documentation/) (project report PDF, ML technical guide, 50 viva questions and answers)
 
 **Run it** (from `Source-Code/churn-uplift/`):
